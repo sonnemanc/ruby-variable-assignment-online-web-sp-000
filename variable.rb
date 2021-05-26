@@ -1,2 +1,1 @@
-temp_var = greeting
- puts "Hello World"
+greeting = "Hello World"
